@@ -14,7 +14,8 @@ body{
     top: 27vh;
 }
 .btn-class{
-    border-color: rgb(184, 231, 231);
+    border-color: rgb(231, 197, 184);
+    background: peachpuff;
     color: black;
 }
 .btn-class:hover{
